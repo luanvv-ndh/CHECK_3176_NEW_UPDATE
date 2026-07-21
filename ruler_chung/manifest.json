@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": "2026.07.20.2314",
-  "created_at": "2026-07-20T23:27:54.983691+07:00",
+  "revision": "2026.07.21.2141",
+  "created_at": "2026-07-21T21:41:23.312016+07:00",
   "files": [
     {
       "name": "ICD_PL_VII_TT26.xlsx",
@@ -25,8 +25,8 @@
     },
     {
       "name": "THUOC_TT20_2022_BYT.xlsx",
-      "sha256": "514355331f3c74c6c5c8a52d8322b4cfe15e1b2e2ba2f847536e9f4572e9b1ff",
-      "size": 8603
+      "sha256": "71952cda18083121735cb83a89a4e043dc327f6ab2350512c1fca704cd82c742",
+      "size": 8680
     },
     {
       "name": "tuongtachoatchat.xlsx",
